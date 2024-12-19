@@ -14,3 +14,7 @@ making a checkpoint or saved point
 adding files
 staging them 
 commiting themg
+
+
+
+jhkhjgkjh
